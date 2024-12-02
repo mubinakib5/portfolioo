@@ -24,6 +24,8 @@ import {
   tailwindcss,
   threads,
   typescript,
+  behance,
+  dribble,
 } from "../assets/icons";
 
 export const skills = [
@@ -152,6 +154,16 @@ export const socialLinks = [
     name: "LinkedIn",
     iconUrl: linkedin,
     link: "https://www.linkedin.com/in/abdullah-al-mubin-akib",
+  },
+  {
+    name: "Behance",
+    iconUrl: behance,
+    link: "https://www.behance.net/mubinakib",
+  },
+  {
+    name: "Dribble",
+    iconUrl: dribble,
+    link: "https://dribbble.com/mubin_akib",
   },
 ];
 
